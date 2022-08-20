@@ -1,2 +1,2 @@
-# Netfilx---DataCamp-troject
+# Netfilx---DataCamp-project
 Investigating Netflix Movies and Guest Stars in The Office
